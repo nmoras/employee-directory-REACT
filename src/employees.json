@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Captain Holt",
+    "image": "http://costumeplaybook.com/wp-content/uploads/2018/10/holt-brooklyn-nine-nine.jpg",
+    "Role": "Sergent",
+    "Department": "Police",
+    "Office": 333333333,
+    "Mobile": 666666666,
+    "Email":  "spongebob@test.com",
+    "Address": "#111 DownTown Toronto M4B 1B3"
+  },
+  {
+    "id": 2,
+    "name": "Jake Peralta",
+    "image": "http://costumeplaybook.com/wp-content/uploads/2018/10/jake-peralta.jpg",
+    "Role": "Detective",
+    "Department": "Police",
+    "Office": 333333311,
+    "Mobile": 666666611,
+    "Email":  "krabs@test.com",
+    "Address": "#222 DownTown Toronto M4B 1B4"
+  },
+  {
+    "id": 3,
+    "name": "Amy Santiago",
+    "image": "http://costumeplaybook.com/wp-content/uploads/2018/10/amy-santiago-brooklyn.jpg",
+    "Role": "Detective",
+    "Department": "Police",
+    "Office": 333333312,
+    "Mobile": 666666612,
+    "Email":  "squidward@test.com",
+    "Address": "#333 DownTown Toronto M4B 1B4"
+  },
+  {
+    "id": 4,
+    "name": "Terry Crews",
+    "image": "http://costumeplaybook.com/wp-content/uploads/2018/10/terry-crews-brooklyn-nine-nine.jpg",
+    "Role": "Sergent",
+    "Department": "Police",
+    "Office": 333333313,
+    "Mobile": 666666613,
+    "Email":  "dexter@test.com",
+    "Address": "#444 DownTown Toronto M4B 1B4"
+  },
+  {
+    "id": 5,
+    "name": "Rosa Diaz",
+    "image": "http://costumeplaybook.com/wp-content/uploads/2018/10/rosa-diaz-brooklyn.jpg",
+    "Role": "Detective",
+    "Department": "Police",
+    "Office": 333333314,
+    "Mobile": 666666614,
+    "Email":  "test@test.com",
+    "Address": "#555 DownTown Toronto M4B 1B4"
+  },
+  {
+    "id": 6,
+    "name": "Charles Boyle",
+    "image": "http://costumeplaybook.com/wp-content/uploads/2018/10/boyle-brooklyn-nine-nine.jpg",
+    "Role": "Detective",
+    "Department": "Police",
+    "Office": 333333315,
+    "Mobile": 666666615,
+    "Email":  "doug@test.com",
+    "Address": "#666 DownTown Toronto M4B 1B4"
+  },
+  {
+    "id": 7,
+    "name": "Gina Linetti",
+    "image": "https://vignette.wikia.nocookie.net/brooklynnine-nine/images/5/53/GinaS5.jpg",
+    "Role": "Administration",
+    "Department": "Administrator",
+    "Office": 333333316,
+    "Mobile": 666666616,
+    "Email":  "gina@test.com",
+    "Address": "#777 DownTown Toronto M4B 1B4"
+  },
+  {
+    "id": 8,
+    "name": "Scully",
+    "image": "http://costumeplaybook.com/wp-content/uploads/2018/10/norm-scully-featured.jpg",
+    "Role": "Administration",
+    "Department": "Adminstrator",
+    "Office": 333333317,
+    "Mobile": 666666617,
+    "Email":  "johny@test.com",
+    "Address": "#888 DownTown Toronto M4B 1B4"
+  },
+  {
+    "id": 9,
+    "name": "Hitchcock",
+    "image": "http://costumeplaybook.com/wp-content/uploads/2018/10/hitchcock.jpg",
+    "Role": "Administration",
+    "Department": "Administrator",
+    "Office": "33333319",
+    "Mobile": 666666619,
+    "Email":  "tommy@test.com",
+    "Address": "#999 DownTown Toronto M4B 1B4"
+  }
+]
