@@ -8,6 +8,8 @@ import Header from "./components/Header";
 
 
 
+
+
 function App() {
   function handleFriendClick(){
     
@@ -17,6 +19,7 @@ function App() {
       
       
       <Header />
+     
       <SearchEmployee />
       
     </Wrapper>

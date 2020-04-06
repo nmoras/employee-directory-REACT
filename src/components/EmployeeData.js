@@ -1,7 +1,7 @@
 import React from 'react'
 
 function EmployeeData(props ) {
-    console.log(props);
+    // console.log(props);
     const employeeListStyle = {
         colborder: {border: '1px solid lightgrey'},
         listtype: {listStyleType: 'none'},

@@ -21,22 +21,30 @@ function EmployeeList(props) {
         e.preventDefault();
         const newInput = e.target.value
         setSearchInput({search: newInput})
-        console.log(displayEmployeeList);
+        // console.log(displayEmployeeList);
             
         if( newInput.length>1){
-            console.log(displayEmployeeList);
+            // console.log(displayEmployeeList);
             // let employeename = employees.filter(employee => employee.name.includes(newInput)});
             // console.log(employeename);
             const filteredEmployeeList = employees.filter((employee) => {
                 return employee.name.toLowerCase().indexOf( searchInput.search.toLowerCase() ) === 0;
             })
-            console.log(filteredEmployeeList);    
+            // console.log(filteredEmployeeList);    
             setDisplayEmployeeList( filteredEmployeeList );
         } else {
                 setDisplayEmployeeList( [] );
         }
     };
-    console.log(displayEmployeeList);
+
+    function handleSort(e){
+        e.preventDefault();
+        console.log( 'i am clicked')
+        let employeeList = [ ...displayEmployeeList ];
+        setDisplayEmployeeList(employeeList.reverse())
+        console.log(displayEmployeeList);
+    }
+    // console.log(displayEmployeeList);
     // function employeeDetails( ){
 
     //     setDisplayEmployeeList( [] );
@@ -53,6 +61,11 @@ function EmployeeList(props) {
                     <input type="text" class="form-control" value={searchInput.search} placeholder="Search Employee by Name" onChange={handleInputChange} />
                 </div> 
             </form>
+            <div class="row justify-content-center">
+                 <div class="col-2">
+                    <button style={{backgroundColor: "blue", padding:"5px", paddingLeft:"5px"}} onClick={handleSort}>Sort By Id</button>
+                 </div>       
+            </div>
             
             {/* <div>
                 {displayEmployeeList.map(employee => (
