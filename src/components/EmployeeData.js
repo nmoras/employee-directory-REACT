@@ -6,7 +6,7 @@ function EmployeeData(props ) {
         colborder: {border: '1px solid lightgrey'},
         listtype: {listStyleType: 'none'},
         imgcontainer: {},
-        img: {height: '50%', border: '1px solid blue', display: 'inline'}
+
     }
 
     return (
@@ -17,7 +17,7 @@ function EmployeeData(props ) {
                          <div class='col-11 p-2' style={employeeListStyle.colborder}>
                             <div class="row">
                                 <div class="col-3 imgcontainer">
-                                    <img style={employeeListStyle.img} alt={employee.name} src={employee.image} />
+                                    <img class="img-thumbnail" alt={employee.name} src={employee.image} />
                                 </div>
                                 <div class="col-9 emp-content">
                                     <div class='row'>
@@ -28,6 +28,18 @@ function EmployeeData(props ) {
                                                 </li>
                                                 <li>
                                                     <strong>Occupation:</strong> {employee.Role}
+                                                </li>
+                                                <li>
+                                                    <strong>Department:</strong> {employee.Department}
+                                                </li>
+                                                <li>
+                                                    <strong>Email:</strong> {employee.Email}
+                                                </li>
+                                                <li>
+                                                    <strong>Office:</strong> {employee.Office}
+                                                </li>
+                                                <li>
+                                                    <strong>Address:</strong> {employee.Address}
                                                 </li>
                                             </ul>
                                     </div>

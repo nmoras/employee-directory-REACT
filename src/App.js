@@ -10,7 +10,7 @@ import Header from "./components/Header";
 
 function App() {
   function handleFriendClick(){
-    console.log( 'you clicked on a friend');
+    
   }
   return(
     <Wrapper>
