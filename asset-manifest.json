@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.63cde0f3.chunk.css",
-    "main.js": "/static/js/main.effb42bf.chunk.js",
-    "main.js.map": "/static/js/main.effb42bf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f8c5b4be.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f8c5b4be.js.map",
-    "static/js/2.6f5751fd.chunk.js": "/static/js/2.6f5751fd.chunk.js",
-    "static/js/2.6f5751fd.chunk.js.map": "/static/js/2.6f5751fd.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.64e8f5d712c1e61b87a4d2474fccd397.js": "/precache-manifest.64e8f5d712c1e61b87a4d2474fccd397.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.63cde0f3.chunk.css.map": "/static/css/main.63cde0f3.chunk.css.map",
-    "static/js/2.6f5751fd.chunk.js.LICENSE.txt": "/static/js/2.6f5751fd.chunk.js.LICENSE.txt"
+    "main.css": "/employee-directory-REACT/my-app/static/css/main.63cde0f3.chunk.css",
+    "main.js": "/employee-directory-REACT/my-app/static/js/main.2e99de41.chunk.js",
+    "main.js.map": "/employee-directory-REACT/my-app/static/js/main.2e99de41.chunk.js.map",
+    "runtime-main.js": "/employee-directory-REACT/my-app/static/js/runtime-main.c80512f2.js",
+    "runtime-main.js.map": "/employee-directory-REACT/my-app/static/js/runtime-main.c80512f2.js.map",
+    "static/js/2.6f5751fd.chunk.js": "/employee-directory-REACT/my-app/static/js/2.6f5751fd.chunk.js",
+    "static/js/2.6f5751fd.chunk.js.map": "/employee-directory-REACT/my-app/static/js/2.6f5751fd.chunk.js.map",
+    "index.html": "/employee-directory-REACT/my-app/index.html",
+    "precache-manifest.b08fdb0b3688be70a826a51fb2af49d0.js": "/employee-directory-REACT/my-app/precache-manifest.b08fdb0b3688be70a826a51fb2af49d0.js",
+    "service-worker.js": "/employee-directory-REACT/my-app/service-worker.js",
+    "static/css/main.63cde0f3.chunk.css.map": "/employee-directory-REACT/my-app/static/css/main.63cde0f3.chunk.css.map",
+    "static/js/2.6f5751fd.chunk.js.LICENSE.txt": "/employee-directory-REACT/my-app/static/js/2.6f5751fd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f8c5b4be.js",
+    "static/js/runtime-main.c80512f2.js",
     "static/js/2.6f5751fd.chunk.js",
     "static/css/main.63cde0f3.chunk.css",
-    "static/js/main.effb42bf.chunk.js"
+    "static/js/main.2e99de41.chunk.js"
   ]
 }
