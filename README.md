@@ -1,1 +1,2 @@
-## Employee Directory REACT
+## Employee Directory using REACT
+
