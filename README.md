@@ -2,7 +2,7 @@
 
 The app lets the employer/manager view entire employee directory at once so that I have quick access to their information.
 
-##Technologies Used
+## Technologies Used
   1. JavaScript
   2. REACT
   3. Bootstrap
